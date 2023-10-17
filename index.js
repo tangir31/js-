@@ -3,7 +3,7 @@ let name = prompt("Ваше имя");
 if (name.length % 2 === 0) {
   alert("Добро пожаловать!");
 } else {
-  alert("Сори не подходиш");
+  alert("Сориенлподходиш");
 }
 
 let number = prompt("Введите число");
