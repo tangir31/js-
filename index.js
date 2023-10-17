@@ -13,7 +13,7 @@ if (number % 2 === 0) {
   alert("Нет");
 }
 
-const Nom = prompt("Введите ваше имя");
+let  Nom = prompt("Введите ваше имя");
 if (name.charAt(0).toLowerCase() === "a") {
   alert("Welcome");
 } else {
